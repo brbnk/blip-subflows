@@ -12,7 +12,7 @@ Start a ready to use chatbot on Blip platform using a subflow architecture.
 
 # Features
 
-### Entrypoints Validations
+### Entrypoints Validation
 Redirect users to specific points of your Smart Contact.
 
 **Example**: '_Hi! I was in the website and I would like to know more about this product._'
