@@ -40,4 +40,4 @@ Send a message to user after 'x' time of inactivity in any menu.
 
 There are other features like '**Global Scripts**', '**Copy and Paste components to boost productivity**' and '**Modules to avoid duplications**'. 
 
-Please, read the <a href='https://github.com/brbnk/blip-subflows/wiki' target='_blank'> docs </a> to know more.
+Please, read the <a href='https://github.com/brbnk/blip-subflows/wiki' target='_blank'> docs </a> to learn more.
