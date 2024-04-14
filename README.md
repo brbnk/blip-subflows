@@ -36,6 +36,13 @@ Send a message to user after 'x' time of inactivity in any menu.
  <img src='https://i.imgur.com/MVWpXWD.gif' width='200'>
 </p>
 
+### Custom Errors
+Send different custom errors for each menu.
+
+<p align='center'>
+ <img src='https://i.imgur.com/1HRvvVr.gif' width='200'>
+</p>
+
 ---
 
 There are other features like '**Global Scripts**', '**Copy and Paste components to boost productivity**' and '**Modules to avoid duplications**'. 
