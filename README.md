@@ -12,7 +12,7 @@ Start a ready to use chatbot on Blip platform using a subflow architecture.
 
 # Features
 
-### Entrypoints Validation
+### <a href='https://github.com/brbnk/blip-subflows/wiki/02.-How-to#define-an-entrypoint'> Entrypoints Validation </a>
 Redirect users to specific points of your Smart Contact.
 
 **Example**: '_Hi! I was in the website and I would like to know more about this product._'
@@ -21,7 +21,7 @@ Redirect users to specific points of your Smart Contact.
  <img src='https://i.imgur.com/0fUJkqW.gif' width='200'>
 </p>
 
-### Global Regex
+### <a href='https://github.com/brbnk/blip-subflows/wiki/02.-How-to#define-global-regex-to-catch-user-intents'> Global Regex </a>
 Register global regex to catch user intents in any menu.
 
 <p align='center'>
@@ -36,7 +36,7 @@ Send a message to user after 'x' time of inactivity in any menu.
  <img src='https://i.imgur.com/MVWpXWD.gif' width='200'>
 </p>
 
-### Custom Errors
+### <a href='https://github.com/brbnk/blip-subflows/wiki/02.-How-to#register-error-messages'> Custom Errors </a>
 Send different custom errors for each menu.
 
 <p align='center'>
